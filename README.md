@@ -1,5 +1,7 @@
 # Sobre Mim
 
+![Avatar](avatar.png)
+
 **Nome:** Davi Gomides Otaviano Resende  
 **Localização:** Lavras, Minas Gerais, Brasil  
 **E-mail:** davi.resende@estudante.ufla.br  
